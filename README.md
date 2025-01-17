@@ -3,6 +3,9 @@
 ## Description
 The University Class Automation System is a robust solution designed to streamline the process of monitoring and notifying users about open university classes with available seats. Built using **Selenium**, **C#**, **ClosedXML**, and **Windows Task Scheduler**, this project automates the extraction and analysis of class schedules, identifying open slots and sending timely notifications via email.
 
+## Demo
+https://github.com/user-attachments/assets/e99e4726-8310-49b2-bb91-8458558f8d8a
+
 ## Features
 - **Automated Login:** Securely logs into the university system using Selenium WebDriver.
 - **Class Data Processing:** Downloads class schedule data in Excel format and analyzes it to identify open classes with more than one available seat.
